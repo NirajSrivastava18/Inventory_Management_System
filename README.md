@@ -5,7 +5,7 @@
 1. Clone the repository:
 
    ```bash
-   [git clone https://github.com/NirajSrivastava18/Inventory_Management_System.git
+   git clone https://github.com/NirajSrivastava18/Inventory_Management_System.git
    ```
 
 2. Install dependencies:
